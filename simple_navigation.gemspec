@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.email = %q{mexpolk@gmail.com}
   s.extra_rdoc_files = ["README.rdoc", "lib/simple_navigation.rb"]
   s.files = ["Manifest", "README.rdoc", "Rakefile", "init.rb", "lib/simple_navigation.rb", "simple_navigation.gemspec"]
-  s.homepage = %q{http://github.com/mexpolk/simple_navigation}
+  s.homepage = %q{http://github.com/thisivan/simple_navigation}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Simple_navigation", "--main", "README.rdoc"]
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{simple_navigation}
